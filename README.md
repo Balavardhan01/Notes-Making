@@ -6,3 +6,5 @@ Notes Making:
 Techstacks used:
 ->ReactJS
 ->TailwindCSS
+
+Deployed in Github
